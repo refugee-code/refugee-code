@@ -1,12 +1,13 @@
 
 
 <h1 align="center">Hi 👋🏻, I'm Harsh kumar jha</h1>
-<h3 align="center">I'm a Pre-final Computer Science Engineering student, proficient in C++, Java, and JavaScript. I have experience with various libraries and frameworks, strong problem-solving skills, and a quick learning ability. I'm eager to apply my academic knowledge to real-world projects and learn even more along the way.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandan0123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🔭 I'm currently learning **Next.js** to enhance my skills.
+- 🔭 I’m a **Full-Stack Developer** passionate about building **real-time**, **cloud-ready**, and **high-performance** applications.
 - 💬 Ask me about **MERN** stack.
+- 🌱 Currently focusing on **System Design** and **Low-Level Architecture**.  
 - 📫 How to reach me: **Harshkrjha567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
