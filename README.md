@@ -1,6 +1,4 @@
-<div align="center">
-   <img src="https://raw.githubusercontent.com/refugee-code/refugee-code/output/snake.svg" alt="Contribution Snake" />
-</div>
+
 
 <h1 align="center">Hi 👋🏻, I'm Harsh kumar jha</h1>
 <h3 align="center">I'm a Pre-final Computer Science Engineering student, proficient in C++, Java, and JavaScript. I have experience with various libraries and frameworks, strong problem-solving skills, and a quick learning ability. I'm eager to apply my academic knowledge to real-world projects and learn even more along the way.</h3>
@@ -25,6 +23,9 @@
 
 
 </p>
+<div align="center">
+   <img src="https://raw.githubusercontent.com/Prateekbh111/Prateekbh111/output/snake.svg" alt="Contribution Snake" />
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
