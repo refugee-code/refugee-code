@@ -1,4 +1,6 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+<div align="center">
+   <img src="https://raw.githubusercontent.com/refugee-code/refugee-code/output/snake.svg" alt="Contribution Snake" />
+</div>
 
 <h1 align="center">Hi 👋🏻, I'm Harsh kumar jha</h1>
 <h3 align="center">I'm a Pre-final Computer Science Engineering student, proficient in C++, Java, and JavaScript. I have experience with various libraries and frameworks, strong problem-solving skills, and a quick learning ability. I'm eager to apply my academic knowledge to real-world projects and learn even more along the way.</h3>
